@@ -1,5 +1,5 @@
 public class index {
     public static void main(String[] args){
-        System.out.println("Olá, Arbyte");
+        System.out.println("Olá, Arbyte!");
     }
 }
