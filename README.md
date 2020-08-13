@@ -1,3 +1,3 @@
 # java
 
-###Exercitando Algoritmos em JAVA!
+## Exercitando Algoritmos em JAVA!
